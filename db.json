@@ -1,0 +1,36 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Сергей",
+      "surname": "Суменков",
+      "date": "24.07.2000",
+      "group": "пиээ19о2",
+      "point": "4"
+    },
+    {
+      "name": "zdfh",
+      "surname": "zdfh",
+      "date": "xdfh",
+      "group": "xfh",
+      "point": "xfh",
+      "id": 2
+    },
+    {
+      "name": "xzfh",
+      "surname": "xfh",
+      "date": "xcfhx",
+      "group": "cfh",
+      "point": "xfch",
+      "id": 3
+    },
+    {
+      "name": "xcfh",
+      "surname": "xcfh",
+      "date": "xcfh",
+      "group": "xcghj",
+      "point": "xcgjh",
+      "id": 4
+    }
+  ]
+}
