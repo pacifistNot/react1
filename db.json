@@ -1,36 +1,188 @@
 {
   "student": [
     {
-      "id": 1,
       "name": "Сергей",
       "surname": "Суменков",
-      "date": "24.07.2000",
+      "date": "2000-07-24",
       "group": "пиээ19о2",
-      "point": "4"
+      "point": "4",
+      "id": 1
     },
     {
-      "name": "zdfh",
-      "surname": "zdfh",
-      "date": "xdfh",
-      "group": "xfh",
-      "point": "xfh",
+      "name": "sdf",
+      "surname": "SDF",
+      "date": "4343-03-31",
+      "group": "aseet",
+      "point": "",
       "id": 2
     },
     {
-      "name": "xzfh",
-      "surname": "xfh",
-      "date": "xcfhx",
-      "group": "cfh",
-      "point": "xfch",
+      "name": "ЕЕ",
+      "surname": "ее",
+      "date": "1922-12-12",
+      "group": "фы",
+      "point": "",
       "id": 3
     },
     {
-      "name": "xcfh",
-      "surname": "xcfh",
-      "date": "xcfh",
-      "group": "xcghj",
-      "point": "xcgjh",
+      "name": "уу",
+      "surname": "уу",
+      "date": "2023-04-13",
+      "group": "уу",
+      "point": "",
       "id": 4
+    },
+    {
+      "name": "у",
+      "surname": "у",
+      "date": "2023-04-13",
+      "group": "у",
+      "point": "",
+      "id": 5
+    },
+    {
+      "name": "е",
+      "surname": "е",
+      "date": "2023-04-13",
+      "group": "е",
+      "point": "1",
+      "id": 6
+    },
+    {
+      "name": "е",
+      "surname": "е",
+      "date": "2023-04-13",
+      "group": "е",
+      "point": "",
+      "id": 7
+    },
+    {
+      "name": "е",
+      "surname": "е",
+      "date": "2023-04-13",
+      "group": "е",
+      "point": "2",
+      "id": 8
+    },
+    {
+      "name": "е",
+      "surname": "е",
+      "date": "2023-04-13",
+      "group": "е",
+      "point": "",
+      "id": 9
+    },
+    {
+      "name": "р",
+      "surname": "п",
+      "date": "2023-04-13",
+      "group": "а",
+      "point": "",
+      "id": 10
+    },
+    {
+      "name": "к",
+      "surname": "в",
+      "date": "2023-04-13",
+      "group": "а",
+      "point": "",
+      "id": 11
+    },
+    {
+      "name": "а",
+      "surname": "а",
+      "date": "2023-04-13",
+      "group": "а",
+      "point": "1",
+      "id": 12
+    },
+    {
+      "name": "sdf",
+      "surname": "SDF",
+      "date": "4343-03-31",
+      "group": "aseet",
+      "point": "",
+      "id": 13
+    },
+    {
+      "name": "ЕЕ",
+      "surname": "ее",
+      "date": "1922-12-12",
+      "group": "фы",
+      "point": "",
+      "id": 14
+    },
+    {
+      "name": "уу",
+      "surname": "уу",
+      "date": "2023-04-13",
+      "group": "уу",
+      "point": "",
+      "id": 15
+    },
+    {
+      "name": "у",
+      "surname": "у",
+      "date": "2023-04-13",
+      "group": "у",
+      "point": "",
+      "id": 16
+    },
+    {
+      "name": "е",
+      "surname": "е",
+      "date": "2023-04-13",
+      "group": "е",
+      "point": "1",
+      "id": 17
+    },
+    {
+      "name": "е",
+      "surname": "е",
+      "date": "2023-04-13",
+      "group": "е",
+      "point": "",
+      "id": 18
+    },
+    {
+      "name": "е",
+      "surname": "е",
+      "date": "2023-04-13",
+      "group": "е",
+      "point": "2",
+      "id": 19
+    },
+    {
+      "name": "е",
+      "surname": "е",
+      "date": "2023-04-13",
+      "group": "е",
+      "point": "",
+      "id": 20
+    },
+    {
+      "name": "р",
+      "surname": "п",
+      "date": "2023-04-13",
+      "group": "а",
+      "point": "",
+      "id": 21
+    },
+    {
+      "name": "к",
+      "surname": "в",
+      "date": "2023-04-13",
+      "group": "а",
+      "point": "",
+      "id": 22
+    },
+    {
+      "name": "а",
+      "surname": "а",
+      "date": "2023-04-13",
+      "group": "а",
+      "point": "1",
+      "id": 23
     }
   ]
 }

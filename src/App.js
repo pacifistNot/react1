@@ -9,14 +9,13 @@ import StudEdit from './StudEdit';
 function App() {
   return (
     <div className="App">
-      <h1>asdfg</h1>
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<StudListing />}></Route>
-          <Route path='/student/create' element={<StudCreate />}></Route>
+          {/* <Route path='/student/create' element={<StudCreate />}></Route> */}
 
           <Route path='/student/detail/:studid' element={<StudDetails />}></Route>
-          <Route path='/student/edit/:studid' element={<StudEdit />}></Route>
+          {/* <Route path='/student/edit/:studid' element={<StudEdit />}></Route> */}
         </Routes>
       </BrowserRouter>
     </div>
